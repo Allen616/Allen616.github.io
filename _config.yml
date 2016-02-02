@@ -5,7 +5,7 @@ url: "https://Allen616.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Allen Clark Alpha Sandbox 
+  title: Allen's Sandbox 
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A Work In Progress" # used by search engines
@@ -37,7 +37,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "ItsMeAllenClark"
   wordpress:
   youtube:
 
@@ -67,7 +67,7 @@ paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
