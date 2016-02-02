@@ -1,6 +1,8 @@
 ---
 published: false
+layout: post
 ---
+
 
 ## Test Post
 I have many great ideas, here are a few:
