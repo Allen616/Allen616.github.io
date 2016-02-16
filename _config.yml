@@ -5,14 +5,14 @@ url: "https://Allen616.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Allen's Sandbox 
+  title: Thinking Sandbox 
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A Work In Progress" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Never interrupt someone doing what you said couldn't be done." </p>
+     <p>"Never interrupt someone doing what you said couldn't be done." </p>
 
      <p>Amelia Earhart</p>
   header_text_feature_image: "img/PATH_TO_IMAGE.png"
@@ -25,7 +25,7 @@ theme:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "https://www.facebook.com/allen.r.clark"
   flickr:
   github: "Allen616"
   google_plus:
