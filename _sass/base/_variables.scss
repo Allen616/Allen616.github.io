@@ -9,8 +9,8 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #F2EFDC;
-$background-color: #F2EFDC;
+$brand-color: #fff;
+$background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
@@ -22,7 +22,7 @@ $selection-color: #D4D4D4; // visible when highlighting text
 $header-link-color: #024959;
 
 // Feature image for articles
-$feature-image-text-color: #fff;
+$feature-image-text-color: #F2EFDC;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
