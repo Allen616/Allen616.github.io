@@ -5,10 +5,10 @@ url: "https://Allen616.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Thinking Sandbox 
+  title: Iterations on Minimum Viable Product 
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A Work In Progress" # used by search engines
+  description: "Iterations on Minimum Viable Product" # used by search engines
 
   # Header and footer text
   header_text: >
