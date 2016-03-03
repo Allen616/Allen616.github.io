@@ -6,7 +6,7 @@ url: "https://Allen616.github.io" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Iterations on Minimum Viable Product 
-  avatar: avatar.png
+  avatar: allen.png
   gravatar: # Email MD5 hash
   description: "Iterations on Minimum Viable Product" # used by search engines
 
