@@ -5,10 +5,10 @@ url: "https://Allen616.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Iterations on Minimum Viable Product 
+  title: A Minimum Viable Product 
   avatar: allen.png
   gravatar: # Email MD5 hash
-  description: "Iterations on Minimum Viable Product" # used by search engines
+  description: "A Minimum Viable Product" # used by search engines
 
   # Header and footer text
   header_text: >
