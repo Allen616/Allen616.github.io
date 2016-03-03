@@ -17,7 +17,8 @@ theme:
      <p>Amelia Earhart</p>
   header_text_feature_image: "img/PATH_TO_IMAGE.png"
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a><br>
+   Copyright 2016
 
   # Icons
   rss: false
