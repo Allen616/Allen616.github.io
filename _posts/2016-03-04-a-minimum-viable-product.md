@@ -3,6 +3,7 @@ published: true
 layout: post
 ---
 
+
 ## An Explanation
 This is undoubtly a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) and it is a struggle for me to release this as it is, but I am learning. 
 
