@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-"feature-img": img/capitol2.jpg
+"feature-img": img/flag.jpg
 published: true
 ---
 
