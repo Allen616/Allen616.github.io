@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## An Explanation
 
@@ -15,6 +16,3 @@ At the same time there is a wonderful freedom in letting this go and knowing tha
 But make no mistake I am not a developer, you certainly wouldn't want to pay me hourly for my development skills. My skills favor communications, marketing, and government affairs. For over 18 months now I have been part of [Friendly Code](http://friendlycode.org), a [Code for America](http://www.codeforamerica.org) brigade based in Grand Rapids, MI. It is through the work of CfA and Friendly Code that I have learned new and exciting approaches to problem solving in the civic space.
 
 More on all of this later, time to `commit` this.
-
-
-
