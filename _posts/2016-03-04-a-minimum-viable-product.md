@@ -5,7 +5,7 @@ feature-img: "img/silicon-valley2.png"
 ---
 
 
-## An Explanation
+## an explanation
 This is undoubtly a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) and it is a struggle for me to release this as it is, but I am learning. 
 
 > the minimum viable product (MVP) is a product which has just enough features to gather validated learning about the product and its continued development.[1] Gathering insights from an MVP is often less expensive than using a product with more features which increase costs and risk in the case where the product fails, for example due to incorrect assumptions.
