@@ -9,7 +9,7 @@ published: true
 
 ## About Allen
 
-Allen is currently the co-captain of [Friendly Code](http://friendlycode.org/), a [Code for America](http://www.codeforamerica.org/) brigade based in Grand Rapids, MI which supports civic engagement with city, state and local governments through open data and open source technologies. Allen is also the founder of The Clever Sprout, a consulting firm that specializes in communications, marketing, and government affairs.
+Allen is a founder of [Citizen Labs](http://citizenlabs.org/), a non-profit supporting civic engagement with city, state and local governments through open data and open source technologies. Allen is also the principal of The Clever Sprout, a consulting firm that specializes in communications, marketing, and government affairs.
 
 Allen's specialities include: media relations, issues management, integrated communications planning, government relations, press events, marketing, branding, and overall messaging strategy. His experience includes:
 
